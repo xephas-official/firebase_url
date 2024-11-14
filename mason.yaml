@@ -1,0 +1,6 @@
+
+bricks:
+  app_template:
+    git:
+      url: https://github.com/xephas-official/FlutterconKE24.git
+      path: app_template

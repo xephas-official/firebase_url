@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113606069561",
+    "project_id": "sociogram-f99b8",
+    "storage_bucket": "sociogram-f99b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113606069561:android:c45196aa6ab66f5ce1ece8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_url"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113606069561-63kfr5272cehbf0jo1oio84dopr1n8ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VWnGfT8uw0CK0Y8FOOZ2n2Bl4Q3bbOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113606069561-63kfr5272cehbf0jo1oio84dopr1n8ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
